@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 tips: please in this file add name;
 
@@ -16,3 +17,17 @@ feng zhuojian
 Χ―Οι±λ
 
 feng zhuojian  the second add
+=======
+Χ―Οι±λ
+tips: please in this file add name;
+luo xuefei add.
+zhuxu add.
+pmj add
+huang mao feng
+xie zhen sheng
+zsq add
+jiang li yuan
+wang ji hua
+jiangxizhon...
+
+>>>>>>> 18efe98efb55c239f5bcd52dbc4bc38a2e0b408b
